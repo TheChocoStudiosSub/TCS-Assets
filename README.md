@@ -26,9 +26,9 @@ TCS-Assets/
 │   │   ├── 05-kasirkita.svg
 │   │   ├── 06-chocoscan.svg
 │   │   └── 07-sheeblink.svg
-│   └── captions/
-│       ├── linkedin-captions.md
-│       └── media-descriptions.md
+│   ├── captions.md
+│   ├── media-descriptions.md
+│   └── profile-copy.md
 ├── logos/
 │   ├── tcs.svg
 │   ├── choco-ai.svg
