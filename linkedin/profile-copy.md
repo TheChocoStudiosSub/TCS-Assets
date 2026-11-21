@@ -10,7 +10,7 @@ Melalui TCS, saya berfokus membangun karya dan solusi yang mengutamakan inovasi,
 
 Website: https://the-choco-studios-official.vercel.app/
 Pusat informasi: https://the-choco-studio-information.netlify.app/
-Email: thechocostudio@gmail.com
+Email: thechocostudios@gmail.com
 
 ## About halaman organisasi TCS
 The Choco Studios (TCS) adalah ekosistem kreatif independen multisektor yang didirikan oleh Hasby Prasetya Saprudin. TCS mengembangkan berbagai merek, produk, layanan, proyek, dan inisiatif kreatif lintas bidang dengan mengutamakan inovasi, kualitas, independensi, serta kolaborasi berkelanjutan.
