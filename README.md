@@ -9,7 +9,7 @@ The Choco Studios (TCS) adalah ekosistem kreatif independen multisektor yang did
 - Website utama: https://the-choco-studios-official.vercel.app/
 - Pusat informasi: https://the-choco-studio-information.netlify.app/
 - Profil LinkedIn pendiri: https://www.linkedin.com/in/hasby-prasetya-tcs/
-- Kontak: thechocostudio@gmail.com
+- Kontak: thechocostudios@gmail.com
 
 ## Struktur repositori
 
