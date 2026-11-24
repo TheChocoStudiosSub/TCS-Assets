@@ -3,12 +3,14 @@
 | Visual | Ukuran | Keterangan |
 |---|---:|---|
 | Sampul profil pendiri | 1584 × 396 | Hasby Prasetya Saprudin, Founder The Choco Studios |
-| TCS Ecosystem | 1200 × 1200 | Ekosistem kreatif independen multisektor TCS |
+| TCS Ecosystem | 1200 × 1200 | Studio independen multisektor dengan fokus open-source dan pemeliharaan proyek |
 | Choco AI | 1200 × 1200 | Asisten AI utama TCS |
-| TCS LinkGuard | 1200 × 1200 | Pemeriksa manual tautan dan kualitas halaman |
+| TCS LinkGuard | 1200 × 1200 | Pemeriksa tautan dan kualitas halaman website dengan pemindaian manual terbatas |
 | Choco AI Help Center | 1200 × 1200 | Pusat bantuan TCS dengan Sara |
-| KasirKita | 1200 × 1200 | Aplikasi kasir dalam pengembangan |
-| ChocoScan | 1200 × 1200 | Pemeriksa pola URL berbasis browser |
-| Creative Works and Projects | 1200 × 1200 | Sheeblink, Chocobot Guardian, dan Privacy Guardian dalam ekosistem TCS |
+| TCS UploadFit | 1200 × 1200 | Persiapan gambar lokal untuk Windows |
+| Learn with TCS | 1200 × 1200 | Proyek pembelajaran Bahasa Indonesia |
+| TCS Engine | 1200 × 1200 | Fondasi runtime game JavaScript 2D/3D |
+| Vornika+- | 1200 × 1200 | Unit pengembangan game TCS |
+| Sheeblink | 1200 × 1200 | Inisiatif handmade yang terintegrasi dalam ekosistem TCS |
 
-**Catatan:** visual portofolio adalah kartu pengenalan berbasis logo dan ringkasan, bukan screenshot UI. Logo sumber tersedia pada folder `logos/`.
+**Catatan:** visual portofolio adalah kartu pengenalan berbasis logo dan ringkasan, bukan screenshot UI. Logo sumber tersedia pada folder `logos/`. Aset dengan nama proyek lama dipertahankan sebagai arsip dan bukan bukti bahwa proyek tersebut masih aktif.
