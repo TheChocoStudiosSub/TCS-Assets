@@ -1,13 +1,22 @@
-# The Choco Studios — Official Brand & LinkedIn Media Assets
+# The Choco Studios — Brand & Communication Assets
 
-Repository resmi untuk aset identitas visual dan materi komunikasi The Choco Studios (TCS).
+Repositori ini menyimpan logo, identitas visual, materi komunikasi, dan aset historis The Choco Studios (TCS). Aset lama dipertahankan sebagai arsip dan tidak otomatis menunjukkan bahwa proyek terkait masih menjadi produk aktif.
 
-## Identitas
+## Identitas TCS
 
-The Choco Studios (TCS) adalah ekosistem kreatif independen multisektor yang didirikan oleh **Hasby Prasetya Saprudin**. TCS mengembangkan merek, produk, layanan, proyek, dan inisiatif kreatif lintas bidang.
+The Choco Studios (TCS) adalah studio independen multisektor yang didirikan, dimiliki, dan dikelola secara mandiri oleh Hasby Prasetya Saprudin. Fokus strategis TCS saat ini adalah open-source, teknologi terapan, dokumentasi, pemeliharaan proyek, dan kolaborasi terstruktur. Pengembangan aplikasi tetap dapat dilakukan, tetapi bukan lagi pusat strategi TCS.
 
-- Website utama: https://the-choco-studios-official.vercel.app/
-- Pusat informasi: https://the-choco-studio-information.netlify.app/
+Sheeblink merupakan inisiatif handmade yang telah terintegrasi ke dalam ekosistem TCS dan tetap mempertahankan identitas kreatifnya. TCS LinkGuard adalah proyek awal TCS yang sebelumnya bernama Chocobot Guardian. Vornika+- merupakan unit pengembangan game TCS yang sebelumnya dikenal sebagai Prism Gaming Studios.
+
+## Kanal resmi
+
+- Situs resmi: https://thechocostudios.bond/
+- Pusat informasi: https://information.thechocostudios.bond/
+- Choco AI: https://chocoai.thechocostudios.bond/
+- TCS LinkGuard: https://linkguard.thechocostudios.bond/
+- Help Center / Sara: https://helpcenter.thechocostudios.bond/
+- Sheeblink: https://sheeblink.thechocostudios.bond/
+- Vornika+: https://vornika.thechocostudios.bond/
 - Profil LinkedIn pendiri: https://www.linkedin.com/in/hasby-prasetya-tcs/
 - Kontak: thechocostudios@gmail.com
 
@@ -17,56 +26,27 @@ The Choco Studios (TCS) adalah ekosistem kreatif independen multisektor yang did
 TCS-Assets/
 ├── linkedin/
 │   ├── banner/
-│   │   └── tcs-founder-linkedin-cover.svg
 │   ├── portfolio/
-│   │   ├── 01-tcs-ecosystem-overview.svg
-│   │   ├── 02-choco-ai.svg
-│   │   ├── 03-tcs-linkguard.svg
-│   │   ├── 04-choco-ai-help-center.svg
-│   │   ├── 05-kasirkita.svg
-│   │   ├── 06-chocoscan.svg
-│   │   └── 07-sheeblink.svg
 │   ├── captions.md
 │   ├── media-descriptions.md
 │   └── profile-copy.md
 ├── logos/
-│   ├── tcs.svg
-│   ├── choco-ai.svg
-│   ├── tcs-linkguard.svg
-│   ├── choco-ai-help-center.svg
-│   ├── kasirkita.svg
-│   ├── chocoscan.svg
-│   ├── chocobot-guardian.svg
-│   ├── privacy-guardian.svg
-│   └── sheeblink-logo.jpg
 └── RIGHTS-AND-ATTRIBUTION.md
 ```
 
-## Media LinkedIn
+## Status dan penggunaan aset
 
-Paket ini dibatasi menjadi **maksimal delapan visual utama**: satu sampul profil pendiri dan tujuh visual portofolio. Sampul menggunakan kanvas 1584 × 396 px. Visual portofolio menggunakan kanvas persegi 1200 × 1200 px.
+Folder `linkedin/portfolio/` dan beberapa logo memuat materi dari fase portofolio TCS sebelumnya. Materi yang menampilkan KasirKita, ChocoScan, Chocobot Guardian, Privacy Guardian, atau Stock & Sales Tracker dipertahankan sebagai arsip historis. Jangan menyalin materi tersebut ke profil atau katalog aktif tanpa audit status terbaru dan persetujuan pemilik.
 
-Visual portofolio merupakan materi pengenalan berbasis logo dan ringkasan produk, bukan tangkapan layar antarmuka aplikasi. Tangkapan layar UI hanya akan ditambahkan setelah dapat diambil dari antarmuka produk yang benar-benar berjalan dan diverifikasi. Tidak ada mockup yang akan diklaim sebagai screenshot asli.
+Untuk komunikasi aktif, utamakan identitas TCS, arah open-source, TCS LinkGuard, Choco AI, Help Center/Sara, TCS UploadFit, TCS Engine, Vornika+, dan Sheeblink sesuai status implementasi masing-masing. Jangan menyebut fitur, rilis, atau status produksi yang belum diverifikasi.
 
-## Status portofolio
+Visual portofolio berbasis logo dan ringkasan bukan tangkapan layar antarmuka. Screenshot UI hanya boleh ditambahkan setelah diambil dari produk yang benar-benar berjalan dan diverifikasi.
 
-| Komponen | Status komunikasi |
-|---|---|
-| TCS LinkGuard | Demo fungsional, pra-produksi |
-| Choco AI | Tersedia |
-| Choco AI Help Center / Sara | Tersedia |
-| KasirKita | Dalam pengembangan |
-| ChocoScan | Dalam pengembangan |
-| Sheeblink | Komponen kreatif/handmade dalam ekosistem TCS |
-| Chocobot Guardian | Proyek TCS, belum ditawarkan untuk penjualan |
-| Privacy Guardian | Proyek TCS, belum ditawarkan untuk penjualan |
-
-TCS UMKM Stock & Sales Tracker diperlakukan sebagai produk historis dengan status distribusi yang belum diverifikasi. Produk tersebut tidak dimasukkan ke materi portofolio aktif sampai sumber dan rilisnya dipastikan kembali.
-
-## Prinsip penggunaan
+## Prinsip penggunaan dan atribusi
 
 - Gunakan nama dan logo sesuai identitas masing-masing komponen.
-- Jangan mengubah status demo atau pengembangan menjadi klaim produk siap pakai.
 - Jangan menghapus atribusi The Choco Studios dari materi resmi.
+- Jangan menyajikan aset historis sebagai bukti produk aktif.
 - Jangan mengklaim visual portofolio sebagai screenshot aplikasi.
-- Lisensi kode, jika ada, tidak otomatis memberikan hak atas merek, logo, atau identitas visual TCS.
+- Lisensi kode sumber tidak otomatis memberikan hak atas merek, logo, atau identitas visual TCS.
+- Untuk izin penggunaan di luar kebutuhan identifikasi dan promosi resmi TCS, ikuti ketentuan pada [RIGHTS-AND-ATTRIBUTION.md](RIGHTS-AND-ATTRIBUTION.md) atau hubungi thechocostudios@gmail.com.
