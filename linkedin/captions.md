@@ -4,11 +4,11 @@
 
 **The Choco Studios:** TCS adalah studio independen yang dikelola Hasby Prasetya Saprudin. Fokus utamanya adalah membangun dan merawat proyek lintas bidang melalui pengembangan terbuka, dokumentasi, dan kolaborasi terstruktur.
 
-**Choco AI:** Asisten AI utama dalam ekosistem TCS. https://tcs-chocoai.vercel.app/
+**Choco AI:** Asisten AI utama dalam ekosistem TCS. https://chocoai.thechocostudios.bond/
 
 **TCS LinkGuard:** Pemeriksa tautan, resource, dan sinyal kualitas halaman website dengan pemindaian manual terbatas. Bukan sertifikasi keamanan atau layanan monitoring otomatis. https://linkguard.thechocostudios.bond/
 
-**Choco AI Help Center / Sara:** Pusat bantuan TCS dengan Sara sebagai asisten dukungan yang terpisah dari Choco AI. https://choco-ai-help-center.vercel.app/
+**Choco AI Help Center / Sara:** Pusat bantuan TCS dengan Sara sebagai asisten dukungan yang terpisah dari Choco AI. https://helpcenter.thechocostudios.bond/
 
 **TCS UploadFit:** Aplikasi Windows untuk mempersiapkan gambar secara lokal sebelum diunggah ke layanan lain. Konten gambar diproses di perangkat. https://tcs-uploadfit.vercel.app/
 
