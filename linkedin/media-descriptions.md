@@ -13,4 +13,4 @@
 | Vornika+- | 1200 × 1200 | Unit pengembangan game TCS |
 | Sheeblink | 1200 × 1200 | Inisiatif handmade yang terintegrasi dalam ekosistem TCS |
 
-**Catatan:** visual portofolio adalah kartu pengenalan berbasis logo dan ringkasan, bukan screenshot UI. Logo sumber tersedia pada folder `logos/`. Aset dengan nama proyek lama dipertahankan sebagai arsip dan bukan bukti bahwa proyek tersebut masih aktif.
+**Catatan:** visual portofolio adalah kartu pengenalan berbasis logo dan ringkasan, bukan screenshot UI. Logo sumber digunakan jika aset untuk komponen tersebut sudah tersedia; komponen tanpa logo khusus memakai fallback visual. Aset dengan nama proyek lama dipertahankan sebagai arsip dan bukan bukti bahwa proyek tersebut masih aktif.
