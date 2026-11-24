@@ -16,7 +16,7 @@
 
 **TCS Engine:** Fondasi runtime game JavaScript 2D/3D. Status kemampuan mengikuti rilis, dokumentasi, dan pengujian repository.
 
-**Vornika+-:** Unit pengembangan game TCS, penerus identitas sebelumnya Prism Gaming Studios. https://vornika-games.vercel.app/
+**Vornika+-:** Unit pengembangan game TCS, penerus identitas sebelumnya Prism Gaming Studios. https://vornika.thechocostudios.bond/
 
 **Sheeblink:** Inisiatif handmade dari Cirebon yang terintegrasi dalam ekosistem TCS dan tetap mempertahankan identitas mereknya. https://sheeblink.thechocostudios.bond/
 
