@@ -22,8 +22,8 @@ The Choco Studios (TCS) adalah studio kreatif independen multisektor yang didiri
 
 - Website utama: https://thechocostudios.bond/
 - Pusat informasi: https://information.thechocostudios.bond/
-- Choco AI: https://tcs-chocoai.vercel.app/
-- Choco AI Help Center: https://choco-ai-help-center.vercel.app/
+- Choco AI: https://chocoai.thechocostudios.bond/
+- Choco AI Help Center: https://helpcenter.thechocostudios.bond/
 - TCS LinkGuard: https://linkguard.thechocostudios.bond/
 - Sheeblink: https://sheeblink.thechocostudios.bond/
 - Profil pendiri: https://www.linkedin.com/in/hasby-prasetya-tcs/
