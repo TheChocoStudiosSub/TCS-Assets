@@ -1,72 +1,52 @@
-# The Choco Studios — Official Brand & LinkedIn Media Assets
+# The Choco Studios — Brand & Media Assets
 
-Repository resmi untuk aset identitas visual dan materi komunikasi The Choco Studios (TCS).
+Repository aset identitas visual dan materi komunikasi resmi The Choco Studios (TCS).
 
-## Identitas
+## Identitas TCS
 
-The Choco Studios (TCS) adalah ekosistem kreatif independen multisektor yang didirikan oleh **Hasby Prasetya Saprudin**. TCS mengembangkan merek, produk, layanan, proyek, dan inisiatif kreatif lintas bidang.
+The Choco Studios (TCS) adalah studio kreatif independen multisektor yang didirikan, dimiliki, dan dikelola secara mandiri oleh Hasby Prasetya Saprudin. Fokus strategis TCS adalah open-source, pengembangan teknologi, dokumentasi, pemeliharaan proyek, dan kolaborasi terstruktur. Pengembangan aplikasi tetap dapat dilakukan, tetapi bukan lagi pusat utama strategi TCS.
 
-- Website utama: https://the-choco-studios-official.vercel.app/
-- Pusat informasi: https://the-choco-studio-information.netlify.app/
-- Profil LinkedIn pendiri: https://www.linkedin.com/in/hasby-prasetya-tcs/
-- Kontak: thechocostudios@gmail.com
+- Website resmi: https://thechocostudios.bond/
+- Pusat informasi: https://information.thechocostudios.bond/
+- Website Sheeblink: https://sheeblink.thechocostudios.bond/
+- LinkedIn pendiri: https://www.linkedin.com/in/hasby-prasetya-tcs/
+- Kontak resmi: thechocostudios@gmail.com
 
-## Struktur repositori
+Sheeblink merupakan inisiatif handmade yang terintegrasi dalam ekosistem TCS dan tetap mempertahankan identitas mereknya. Vornika+- adalah unit pengembangan game TCS, penerus identitas yang sebelumnya dikenal sebagai Prism Gaming Studios.
 
-```text
-TCS-Assets/
-├── linkedin/
-│   ├── banner/
-│   │   └── tcs-founder-linkedin-cover.svg
-│   ├── portfolio/
-│   │   ├── 01-tcs-ecosystem-overview.svg
-│   │   ├── 02-choco-ai.svg
-│   │   ├── 03-tcs-linkguard.svg
-│   │   ├── 04-choco-ai-help-center.svg
-│   │   ├── 05-kasirkita.svg
-│   │   ├── 06-chocoscan.svg
-│   │   └── 07-sheeblink.svg
-│   ├── captions.md
-│   ├── media-descriptions.md
-│   └── profile-copy.md
-├── logos/
-│   ├── tcs.svg
-│   ├── choco-ai.svg
-│   ├── tcs-linkguard.svg
-│   ├── choco-ai-help-center.svg
-│   ├── kasirkita.svg
-│   ├── chocoscan.svg
-│   ├── chocobot-guardian.svg
-│   ├── privacy-guardian.svg
-│   └── sheeblink-logo.jpg
-└── RIGHTS-AND-ATTRIBUTION.md
-```
+## Struktur aset
 
-## Media LinkedIn
+Repository ini menyimpan aset identitas TCS, aset komponen ekosistem, materi LinkedIn, dan beberapa aset historis. Nama berkas lama dipertahankan agar referensi desain dan riwayat aset tidak rusak.
 
-Paket ini dibatasi menjadi **maksimal delapan visual utama**: satu sampul profil pendiri dan tujuh visual portofolio. Sampul menggunakan kanvas 1584 × 396 px. Visual portofolio menggunakan kanvas persegi 1200 × 1200 px.
+- `logos/` — logo TCS dan identitas komponen, termasuk beberapa logo historis.
+- `linkedin/banner/` — sampul profil pendiri.
+- `linkedin/portfolio/` — materi pengenalan visual untuk komunikasi publik.
+- `linkedin/captions.md`, `media-descriptions.md`, dan `profile-copy.md` — naskah publikasi dan deskripsi media.
+- `RIGHTS-AND-ATTRIBUTION.md` — atribusi dan ketentuan penggunaan aset.
 
-Visual portofolio merupakan materi pengenalan berbasis logo dan ringkasan produk, bukan tangkapan layar antarmuka aplikasi. Tangkapan layar UI hanya akan ditambahkan setelah dapat diambil dari antarmuka produk yang benar-benar berjalan dan diverifikasi. Tidak ada mockup yang akan diklaim sebagai screenshot asli.
+Aset yang namanya merujuk pada proyek lama seperti KasirKita, ChocoScan, Chocobot Guardian, atau Privacy Guardian dipertahankan sebagai arsip historis. Keberadaan logo atau file lama tidak berarti proyek tersebut merupakan produk aktif atau bagian dari portofolio utama saat ini.
 
-## Status portofolio
+## Status komunikasi
 
-| Komponen | Status komunikasi |
+| Komponen | Keterangan |
 |---|---|
-| TCS LinkGuard | Demo fungsional, pra-produksi |
-| Choco AI | Tersedia |
-| Choco AI Help Center / Sara | Tersedia |
-| KasirKita | Dalam pengembangan |
-| ChocoScan | Dalam pengembangan |
-| Sheeblink | Komponen kreatif/handmade dalam ekosistem TCS |
-| Chocobot Guardian | Proyek TCS, belum ditawarkan untuk penjualan |
-| Privacy Guardian | Proyek TCS, belum ditawarkan untuk penjualan |
+| Choco AI | Asisten AI utama TCS. |
+| Choco AI Help Center / Sara | Pusat bantuan dengan asisten dukungan Sara, terpisah dari Choco AI. |
+| TCS LinkGuard | Pemeriksa tautan dan kualitas halaman website dengan batas pemindaian yang terdokumentasi. |
+| TCS UploadFit | Aplikasi persiapan gambar lokal untuk Windows; pemrosesan gambar dilakukan pada perangkat. |
+| Learn with TCS | Proyek pembelajaran Bahasa Indonesia yang dikembangkan bertahap. |
+| TCS Engine | Fondasi runtime game JavaScript 2D/3D; rilis dan kemampuan harus mengikuti dokumentasi repository. |
+| Vornika+- | Unit pengembangan game di dalam ekosistem TCS. |
+| Sheeblink | Inisiatif handmade yang terintegrasi dalam ekosistem TCS. |
 
-TCS UMKM Stock & Sales Tracker diperlakukan sebagai produk historis dengan status distribusi yang belum diverifikasi. Produk tersebut tidak dimasukkan ke materi portofolio aktif sampai sumber dan rilisnya dipastikan kembali.
+Status fitur dan ketersediaan publik harus mengikuti implementasi serta dokumentasi masing-masing proyek. Materi visual tidak boleh digunakan untuk mengklaim fitur yang belum tersedia.
 
-## Prinsip penggunaan
+## Pedoman penggunaan
 
-- Gunakan nama dan logo sesuai identitas masing-masing komponen.
-- Jangan mengubah status demo atau pengembangan menjadi klaim produk siap pakai.
-- Jangan menghapus atribusi The Choco Studios dari materi resmi.
-- Jangan mengklaim visual portofolio sebagai screenshot aplikasi.
-- Lisensi kode, jika ada, tidak otomatis memberikan hak atas merek, logo, atau identitas visual TCS.
+- Gunakan logo dan nama sesuai identitas masing-masing komponen.
+- Jangan mengubah status demo, pengembangan, atau arsip menjadi klaim produk siap pakai.
+- Jangan menyebut materi ilustrasi sebagai tangkapan layar antarmuka yang sebenarnya.
+- Pertahankan atribusi The Choco Studios pada materi resmi.
+- Lisensi kode tidak otomatis memberikan hak atas merek, logo, atau identitas visual TCS.
+- Jangan menghapus aset historis hanya karena nama proyek telah berubah; tandai dan kelola sebagai arsip.
+
