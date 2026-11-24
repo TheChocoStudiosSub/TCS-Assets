@@ -1,19 +1,23 @@
 # Caption LinkedIn TCS
 
-**Sampul profil:** Founder, The Choco Studios. Membangun ekosistem kreatif independen multisektor yang menghubungkan teknologi, solusi bisnis, karya kreatif, merek, dan inisiatif.
+**Sampul profil:** Founder, The Choco Studios. Mengembangkan studio kreatif independen multisektor dengan fokus pada open-source, teknologi terapan, dokumentasi, dan pemeliharaan proyek.
 
-**TCS Ecosystem:** The Choco Studios adalah ekosistem kreatif independen multisektor yang didirikan oleh Hasby Prasetya Saprudin. Komponen TCS memiliki fungsi dan identitas berbeda dalam satu ekosistem.
+**The Choco Studios:** TCS adalah studio independen yang dikelola Hasby Prasetya Saprudin. Fokus utamanya adalah membangun dan merawat proyek lintas bidang melalui pengembangan terbuka, dokumentasi, dan kolaborasi terstruktur.
 
-**Choco AI:** Asisten AI utama dalam ekosistem TCS. Status: tersedia. https://choco-ai-independent-seven.vercel.app/
+**Choco AI:** Asisten AI utama dalam ekosistem TCS. https://tcs-chocoai.vercel.app/
 
-**TCS LinkGuard:** Pemeriksa manual tautan dan kualitas halaman website. Status: demo fungsional/pra-produksi. Bukan monitoring otomatis atau pemindai keamanan.
+**TCS LinkGuard:** Pemeriksa tautan, resource, dan sinyal kualitas halaman website dengan pemindaian manual terbatas. Bukan sertifikasi keamanan atau layanan monitoring otomatis. https://linkguard.thechocostudios.bond/
 
-**Choco AI Help Center:** Pusat bantuan digital TCS dengan Sara sebagai asisten dukungan. Status: tersedia. https://choco-ai-help-center.netlify.app/
+**Choco AI Help Center / Sara:** Pusat bantuan TCS dengan Sara sebagai asisten dukungan yang terpisah dari Choco AI. https://choco-ai-help-center.vercel.app/
 
-**KasirKita:** Aplikasi kasir untuk kebutuhan usaha. Status: dalam pengembangan.
+**TCS UploadFit:** Aplikasi Windows untuk mempersiapkan gambar secara lokal sebelum diunggah ke layanan lain. Konten gambar diproses di perangkat. https://tcs-uploadfit.vercel.app/
 
-**ChocoScan:** Pemeriksaan pola URL berbasis browser. Status: dalam pengembangan; bukan jaminan mutlak keamanan tautan.
+**Learn with TCS:** Proyek pembelajaran Bahasa Indonesia untuk penutur dari berbagai bahasa. Materi dikembangkan dan diberi status verifikasi secara bertahap.
 
-**Creative Works and TCS Projects:** Sheeblink merupakan komponen handmade/kreatif dalam TCS. Chocobot Guardian dan Privacy Guardian adalah proyek TCS yang belum ditawarkan untuk penjualan.
+**TCS Engine:** Fondasi runtime game JavaScript 2D/3D. Status kemampuan mengikuti rilis, dokumentasi, dan pengujian repository.
 
-Catatan: visual portofolio adalah kartu pengenalan berbasis logo dan ringkasan, bukan screenshot UI. Screenshot asli hanya boleh ditambahkan setelah diambil dan diverifikasi dari produk yang berjalan.
+**Vornika+-:** Unit pengembangan game TCS, penerus identitas sebelumnya Prism Gaming Studios. https://vornika-games.vercel.app/
+
+**Sheeblink:** Inisiatif handmade dari Cirebon yang terintegrasi dalam ekosistem TCS dan tetap mempertahankan identitas mereknya. https://sheeblink.thechocostudios.bond/
+
+Catatan: visual portofolio merupakan materi pengenalan berbasis logo dan ringkasan, bukan screenshot UI. Aset historis seperti KasirKita, ChocoScan, Chocobot Guardian, dan Privacy Guardian tidak boleh dipresentasikan sebagai produk aktif hanya karena berkas visualnya masih tersimpan.
